@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="" tvg-id="", El Siete TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779350130/ei/EmYOar67EtDfybgPp9SOgQ0/ip/68.220.59.112/id/Vh8xmLBJtR8.408/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AbKmrwqWKeM31VZMZWpDVuVOM8NJePZhn6Sv3ju9pPullSMdA3YRrU3pDr18fFDDQvhC3aNSzXoXKsv2/spc/96Xrv5jldJTytNKCWHsYtW65h350I_szWYnoB9hfqFmsip5WFGldmgvEEhGmjJ8VoddKxw/vprv/1/go/1/ns/mIa9DIw9yHt4YdhZlfSAXrwV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/ABTFj6Meook-cAAjdHv/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAPGprHbZEYo3EadfqXWi1WgMsj6vhdq6tIy9IvoKidARAiB2q3_v90Ol7zH3wjtnBHfEOJsB4LwcJg1fyFMBpgGTcA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" tvg-id="", NASA Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
